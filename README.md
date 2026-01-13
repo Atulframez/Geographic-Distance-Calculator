@@ -82,3 +82,34 @@ geopy==2.2.0
 pytest==8.3.3
 ```
 
+🎯 Learning Outcomes
+
+Working with geographic coordinates
+
+Using third-party Python libraries
+
+CLI-based user input handling
+
+Real-world distance calculations
+
+Basic travel time estimation logic
+
+🔮 Future Improvements
+
+Support for miles and nautical miles
+
+GUI or web-based interface
+
+Map visualization
+
+Route-based distance calculation
+
+👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+⭐ Support
+
+If you find this project useful, don’t forget to star ⭐ the repository!
